@@ -21,4 +21,4 @@
 
  Você pode entender mais desse projeto acessando nossa wiki ou [clicando aqui](https://github.com/Lukxus/Projeto-de-Software/wiki)
 
- Até a próxima ;)
+ Até a próxima (:
