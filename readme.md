@@ -1,4 +1,4 @@
- # Projeto de Software
+ # Engenharia de Software
 
  Atividade desenvolvida na disciplina Engenharia de Software durante o 5º semestre de Ciência da Computação na Universidade Presbiteriana Mackenzie.
 
